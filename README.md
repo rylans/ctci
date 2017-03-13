@@ -1,3 +1,3 @@
 # ctci
 
-questions & solutions
+questions & solutions in Python

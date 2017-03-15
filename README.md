@@ -11,3 +11,7 @@ questions & solutions in Python
 
 * 2.1 Write code to remove duplicates from an unsorted linked list.
 * 2.2 Implement an algorithm to find the nth to last element of a singly linked list.
+
+### Trees and Graphs
+
+* 4.1 Implement a function to check if a tree is balanced

@@ -15,3 +15,4 @@ questions & solutions in Python
 ### Trees and Graphs
 
 * 4.1 Implement a function to check if a tree is balanced
+* 4.3 Given a sorted array, write an algorithm to create a binary tree with minimal height.
